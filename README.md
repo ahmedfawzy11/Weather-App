@@ -31,7 +31,6 @@ App Screenshots:
 ------------------------
   -   ![Screen-Shot-1](https://user-images.githubusercontent.com/30273995/189481733-91386513-ffd4-4a3f-97db-ac47c6d02b78.jpg)
   -   ![Screen-Shot-2](https://user-images.githubusercontent.com/30273995/189481731-5437b0de-f02a-4dd6-ad3e-5c813fa21b29.jpg)
-  -   ![Screen-Shot-3](https://user-images.githubusercontent.com/30273995/189481732-05f65347-ccb5-442b-a3de-1b81b293ceb7.jpg)
 -----------------------------------------------------------------------------------------------------------------------------
 App Screen Record:
 ---------------------------
